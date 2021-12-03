@@ -4,13 +4,13 @@
 
 In addition to these instructions, the movements in which the robot has lost its way are stored between executions.
 
-##Install and Run
+## Install and Run
 
-###Prerequisites
+### Prerequisites
 
 To run this program you'll need to install _Node_ and clone this repo locally.
 
-###Install dependencies
+### Install dependencies
 
 To install the necessaries packages to run this project you have to execute:
 ```
